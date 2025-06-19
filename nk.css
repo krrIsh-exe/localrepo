@@ -9,3 +9,8 @@ git checkout-b <-to create ne branch new branch name->
 git branch -d <- branch name -> (to delete branch)
 
   */
+
+p {
+    margin: auto;
+    padding: auto;
+}
