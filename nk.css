@@ -1,3 +1,11 @@
 p{
     background-color: aquamarine;
 }
+/* 
+git branch = to know current branch
+git branch name changing = git branch -M new name
+git checkout <-Branch Name->= to nevigate  
+git checkout-b <-to create ne branch new branch name->
+git branch -d <- branch name -> (to delete branch)
+
+  */
